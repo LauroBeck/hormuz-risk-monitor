@@ -1,0 +1,17 @@
+# Data and Secrets
+data/**/*.csv
+data/**/*.parquet
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+dist/
+build/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
